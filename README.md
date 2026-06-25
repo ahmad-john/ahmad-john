@@ -219,5 +219,5 @@ Backend-разработчик / Feature Lead (3+ года)
 
 ## 📫 Контакты
 
-Email: sattaeovahmadjon@gmail.com  
-Telegram: @ahmad_john_2
+Email: satahmadjon@gmail.com  
+Telegram: @ahmad_john_sat
